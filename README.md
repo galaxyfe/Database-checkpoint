@@ -1,4 +1,3 @@
 # Database-checkpoint
 CHALLENGE 1
-Query: ![](./screenshots/Challenge 1.png)
-Results: ![](./screenshots/Challenge 1.png)
+Query and Results: ![Challenge 1](https://github.com/galaxyfe/Database-checkpoint/blob/main/screenshots/Challenge%201.png)
